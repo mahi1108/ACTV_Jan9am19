@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACTV_Jan9am19</string>
+
+    <string name="ecn">देश का नाम दर्ज करें:</string>
+
+    <string-array name="countries">
+        <item>ऑस्ट्रेलिया</item>
+        <item>अमेरिका</item>
+        <item>ब्राज़िल</item>
+        <item>बांग्लादेश</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Indonasia</item>
+    </string-array>
+
+</resources>
